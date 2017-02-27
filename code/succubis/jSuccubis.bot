@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bot
+	name="jSuccubis"
+	description="Do my bidding!"
+	heroname="Hero_Succubis"
+	rootlua="jSuccubis.lua"
+	defaultplayername="jSuccubis"
+	precachepath="/heroes/succubis/"
+/>
